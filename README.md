@@ -142,13 +142,13 @@ class IshaVishwakarma:
 <div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IshaVishwakarma&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=IshaVishwakarma&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -176,8 +176,8 @@ class IshaVishwakarma:
 I'm actively looking for **AI/ML engineering roles** — if you're building something with LLMs, RAG, or AI agents, let's talk.
 
 [![Email me](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha.vishwakarma09@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Visit_my_website-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-WEBSITE)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-vishwakarma/)
+[![Portfolio](https://img.shields.io/badge/Visit_my_website-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-sage-two-13.vercel.app%2F&urlhash=TWpq&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2xC8hNxAQf2FqgJ6CDB6Mg%3D%3D)
 
 </div>
 
