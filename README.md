@@ -8,10 +8,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR-WEBSITE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-vishwakarma/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-sage-two-13.vercel.app%2F&urlhash=TWpq&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2xC8hNxAQf2FqgJ6CDB6Mg%3D%3D)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha.vishwakarma09@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github&color=1D9E75)](https://github.com/YOUR-USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR-USERNAME?style=for-the-badge&logo=github&color=1D9E75)](https://github.com/IshaVishwakarma)
 
 </div>
 
@@ -46,8 +46,8 @@ class IshaVishwakarma:
 - Detects data sharing, retention & tracking risks
 - Containerized for scalable deployment
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR-USERNAME/priviq)
-[![Demo](https://img.shields.io/badge/Live_Demo-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DEMO-LINK)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/IshaVishwakarma/PrivIQ.git)
+
 
 </td>
 <td width="50%" valign="top">
