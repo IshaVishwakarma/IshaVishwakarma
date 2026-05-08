@@ -61,8 +61,8 @@ class IshaVishwakarma:
 - Interactive model comparison dashboards
 - Built for multi-step, agent-like AI pipelines
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR-USERNAME/llm-observability)
-[![Demo](https://img.shields.io/badge/Live_Demo-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-DEMO-LINK)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/IshaVishwakarma/llm-observability.git)
+[![Demo](https://img.shields.io/badge/Live_Demo-1D9E75?style=flat-square&logo=vercel&logoColor=white)](https://drive.google.com/file/d/1Hd8N32WIfK_Y18D5nURkjD8Ag72r0xJX/view?usp=sharing)
 
 </td>
 </tr>
@@ -78,7 +78,7 @@ class IshaVishwakarma:
 - Feature engineering: rush hour, zone traffic
 - REST API with single & batch prediction endpoints
 
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/YOUR-USERNAME/nyc-taxi-eta)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/IshaVishwakarma/ETA-Prediction.git)
 
 </td>
 <td width="50%" valign="top">
