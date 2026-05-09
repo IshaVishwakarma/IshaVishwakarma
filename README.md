@@ -9,7 +9,7 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-vishwakarma/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-sage-two-13.vercel.app%2F&urlhash=TWpq&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2xC8hNxAQf2FqgJ6CDB6Mg%3D%3D)
+[![Portfolio](https://img.shields.io/badge/Portfolio-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sage-two-13.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha.vishwakarma09@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/IshaVishwakarma?style=for-the-badge&logo=github&color=1D9E75)](https://github.com/IshaVishwakarma/)
 
@@ -177,7 +177,7 @@ I'm actively looking for **AI/ML engineering roles** — if you're building some
 
 [![Email me](https://img.shields.io/badge/Email_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isha.vishwakarma09@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isha-vishwakarma/)
-[![Portfolio](https://img.shields.io/badge/Visit_my_website-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://www.linkedin.com/safety/go/?url=https%3A%2F%2Fportfolio-sage-two-13.vercel.app%2F&urlhash=TWpq&isSdui=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B2xC8hNxAQf2FqgJ6CDB6Mg%3D%3D)
+[![Portfolio](https://img.shields.io/badge/Visit_my_website-534AB7?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-sage-two-13.vercel.app/)
 
 </div>
 
